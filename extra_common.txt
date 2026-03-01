@@ -1,5 +1,5 @@
 StrongPass!234
 MixUPcase123$
 SomeOtherCommonPassword1
-Admin123!
+Admin123
 123admin
